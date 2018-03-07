@@ -1,0 +1,14 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 46EF-8D26
+
+ R‚pertoire de C:\Users\Basma\Desktop\JavaProjectTest
+
+07/03/2018  16:26    <DIR>          .
+07/03/2018  16:26    <DIR>          ..
+07/03/2018  16:20               900 Hello.class
+07/03/2018  14:13               145 Hello.java
+07/03/2018  16:26                 0 locker.txt
+07/03/2018  16:23                16 readme.txt
+07/03/2018  16:25                 0 test.txt
+               5 fichier(s)            1ÿ061 octets
+               2 R‚p(s)  295ÿ073ÿ783ÿ808 octets libres
